@@ -340,7 +340,7 @@ with cols1:
 
     
     
-    APP_URL = "https://weather-prediction-bu7p6nawxu45huhizjyedx.streamlit.app/"
+    APP_URL = "https://n5qysizqsszvb6tskjk5eb.streamlit.app/"
 
     st.markdown(f"""
     <style>
@@ -469,7 +469,7 @@ st.markdown(
 )
 coos1,coos2= st.columns(2)
 with coos1:
-    APP_URL = "https://2pvewgqjzf5ifra57dpsav.streamlit.app/"
+    APP_URL = "https://azur9trwmcfnjzaj3vgw9y.streamlit.app/"
 
     st.markdown(f"""
         <style>
@@ -504,7 +504,7 @@ with coos1:
 
         """, unsafe_allow_html=True)
 with coos2:
-    APP_URL = "https://fcheo9oyypblvtmmm29gtc.streamlit.app/"
+    APP_URL = "https://iwny5fxh9tf73skfyz2c9j.streamlit.app/"
 
     st.markdown(f"""
         <style>
@@ -543,6 +543,5 @@ with coos2:
 
 
     
-
 
 
